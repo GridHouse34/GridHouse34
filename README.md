@@ -24,7 +24,7 @@ On a 4-year course to become an IT System Specialist.
 ## Studies
 
 The obvious part: I finished elementary.
-Not so obvious part: Studying to become an IT System Specialist at VOCO for 4 years.
+Not so obvious part: Studying to become an IT System Specialist for 4 years.
 
 ### What do those studies contain?
 - Cybersecurity
